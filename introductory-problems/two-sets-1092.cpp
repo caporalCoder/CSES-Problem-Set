@@ -52,9 +52,6 @@ template<class T> bool chmax(T& a, const T& b){ return b > a ? (a = b, true) : f
   #define dbg(...) (void)0
 #endif
 
-ll solve(string dna_sequence) {
-  
-}
 
 int main() {
     ios::sync_with_stdio(false);
